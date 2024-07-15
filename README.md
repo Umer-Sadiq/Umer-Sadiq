@@ -1,3 +1,5 @@
+# 💫 About Me:
+🛠️ I’m currently working on:<br>Building scalable web applications using different tech stacks such as the LAMP stack and integrating modern front-end frameworks like React.js.<br><br>🤝 I’m looking for help with:<br>Exploring new technologies and methodologies in automation and web development.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript frameworks (React.js, Next.js), DevOps practices, and improving my proficiency in backend development.<br><br>💬 Ask me about:<br>Full stack development, database optimization, API development and integration, and best practices for web application security.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadumersadiq/) 
